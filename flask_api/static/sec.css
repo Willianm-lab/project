@@ -1,0 +1,23 @@
+body {
+    font-family: Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+.texto{
+    align-items: top;
+}
+button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: darkblue;
+}
